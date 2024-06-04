@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/aaditya_gupta27" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya_gupta27?logo=twitter&style=for-the-badge" alt="aaditya_gupta27" /></a> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing and DJANGO**
-
-- 📝 I try to write articles on [https://aadiwrites.hashnode.dev/](https://aadiwrites.hashnode.dev/)
+- 🌱 I’m currently learning **Natural Language Processing and ReactJS**
 
 - 💬 Ask me about **Machine Learning, Python and Data Analysis**
 
 - 📫 How to reach me **aadityagupta2711@gmail.com**
 
 - ⚡ Fun fact **I love reading manga and learning new historical facts**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
